@@ -1,0 +1,14 @@
+{
+  "name": "discord-roblox-relay",
+  "version": "1.0.0",
+  "description": "Relay entre Roblox y Discord para notificaciones de servidor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
